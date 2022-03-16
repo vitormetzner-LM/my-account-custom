@@ -1,0 +1,8 @@
+{
+    "my-account-page.my-account-lm-page" : {
+        "component": "MyAppPage"
+    },
+    "my-account-link.my-account-lm-link": {
+        "component": "MyAppLink"
+    }
+}

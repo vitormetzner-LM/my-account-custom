@@ -1,0 +1,29 @@
+{
+    "login#loginForm": {
+        "props": {
+            "accountOptionLinks": [
+                {
+                    "label": "Minha Conta",
+                    "path": "/account",
+                    "cssClass": [
+                        "header__login--link"
+                    ]
+                },
+                {
+                    "label": "Meus Pedidos",
+                    "path": "/account#/orders ",
+                    "cssClass": [
+                        "header__login--link"
+                    ]
+                },
+                {
+                    "label": "Meus Vales",
+                    "path": "/account/meusvales",
+                    "cssClass": [
+                        "header__login--link"
+                    ]
+                }
+            ]
+        }
+    }
+}
