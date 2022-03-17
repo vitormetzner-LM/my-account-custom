@@ -53,7 +53,8 @@ Now next you can be manually adding a file in the react folder called package.js
   declare module "react-intl";
  ```
    
- Inside the react component folder you will create a file called MyAccountLink with the following items
+ Inside the react component folder you will create a file called MyAccountLink with the following items , And then in the root of the react folder 2 files, MyApp Link and MyAppPage
+
 
 ```jsx
 import React from "react";
@@ -67,7 +68,7 @@ const MyAccountLink = () => {
 };
 export default MyAccountLink;
 ```
-   
+MyAppLink below
 ```jsx
 import PropTypes from "prop-types";
 import { intlShape, injectIntl } from "react-intl";
