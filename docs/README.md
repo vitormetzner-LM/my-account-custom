@@ -1,21 +1,3 @@
-# Store theme
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-This project was made to contribute to those who need to add a new tab in vtex my account
-
-
-
-## Dependencies
-All store components that you see on this document are open source too. Production ready, you can found those apps in this GitHub organization.
-
-### Builders
-- [styles]
-- [store]
-- [sitemap]
-- [docs]
-- [react]
-- [messages]
-
-
 ## Contributors ✨
 
 
