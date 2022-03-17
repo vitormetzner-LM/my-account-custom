@@ -124,6 +124,19 @@ Inside your store folder called plugins.json you will create the following plugi
 }
 ```
 
+Inside your store folder called interfaces.json ,and you don't need to declare it anywhere, just leave it in the interface
+
+```json
+{
+    "my-account-page.my-account-lm-page" : {
+        "component": "MyAppPage"
+    },
+    "my-account-link.my-account-lm-link": {
+        "component": "MyAppLink"
+    }
+}
+```
+
 Still, some errors will appear in React , you will run the command inside the react folder `vtex setup --typings` , and outside the react folder at the root of the project will give a vtex install to install the necessary app and its dependencies added manually
 
 <a href="https://prnt.sc/_0nNGxLC3jh-">
