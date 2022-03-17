@@ -14,4 +14,4 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [Vitor] (https://github.com/vitorfarias001) specification. Contributions of any kind welcome!
+This project follows the  (https://github.com/vitorfarias001) specification. Contributions of any kind welcome!
