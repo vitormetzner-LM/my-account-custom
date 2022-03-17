@@ -26,7 +26,6 @@ To add a new tab in `vtex-account_menu-link` you need  you need to add the follo
 ```
 Now next you can be manually adding a file in the react folder called package.json after that you may be manually adding a file in the react folder called package.json
 
-<a href="https://prnt.sc/Pp_2EZ4mwC3Q">
 
 ```json
   "name": "my-account-plugin",
@@ -53,7 +52,6 @@ Now next you can be manually adding a file in the react folder called package.js
 ```jsx
   declare module "react-intl";
  ```
- <a href="https://prnt.sc/v-1pmz-0Tdqz">
    
  Inside the react component folder you will create a file called MyAccountLink with the following items
 
