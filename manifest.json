@@ -1,6 +1,6 @@
 {
   "vendor": "grupolamoda",
-  "name": "grupolamoda-theme",
+  "name": "store-theme",
   "version": "0.0.1",
   "builders": {
     "styles": "2.x",
